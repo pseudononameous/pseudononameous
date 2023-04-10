@@ -1,0 +1,261 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:700&family=Ubuntu:wght@400;500;700);
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+html{
+    scroll-behavior: smooth;
+}
+
+/* custom scroll bar */
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+}
+::-webkit-scrollbar-thumb {
+    background: #888;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #555;
+}
+
+body {
+ 
+  width: 100vw;
+  height: 100vh;
+  background-image:url('01.gif');
+  background-size: cover;
+  background-position: center, center;
+  overflow: hidden;
+  /*background-size: 100%;
+  background-repeat:no-repeat;
+  overflow: hidden;
+  width: 100%;
+  height:100%;
+  margin: 0px;
+  background-position: center;
+  background-size: cover;*/
+
+}
+
+svg {
+  width: 600px;
+  margin: 0 auto;
+  position: relative;
+  display: block;
+  z-index: 0;
+}
+svg text {
+  fill: #81CACF;
+  font-family: "Oswald";
+  font-weight: 700;
+}
+svg text tspan {
+  padding: 0;
+  margin: 0;
+  opacity: 0;
+}
+svg line, svg polyline, svg ellipse, svg path {
+  stroke: #FFF80A;
+  fill: none;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 6;
+  opacity: 0;
+  stroke-miterlimit: 10;
+}
+svg .dec {
+  stroke-width: 3;
+}
+svg .underline {
+  stroke-width: 6;
+  stroke-linecap: butt;
+  opacity: 1;
+}
+svg .dot {
+  opacity: 1;
+}
+svg .yellow {
+  stroke: #FFEA11;
+}
+svg .lime {
+  stroke: #355764;
+}
+svg .plum {
+  stroke: #81CACF;
+}
+svg .blue {
+  stroke: #5A8F7B;
+}
+center .color{
+  color: #FFF80A;
+}
+/*#play {
+  font-size: 20px;
+  color: #fff;
+  display: block;
+  position: "relative";
+  margin: 0 auto;
+  width: 200px;
+  text-align: center;
+  background: none;
+  border: none;
+  outline: none;
+  opacity: 0;
+}*/
+#tcolor{
+  color: #fff;
+}
+#texty{
+   font-size: 17px;
+  max-width: 600px;
+  text-align:center;
+  width:100%;
+  height:auto;
+  margin:0 auto;
+}
+
+.outerBox {
+    height: 60vh;
+    
+    padding: 0 20px;
+    margin: 100px 50px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.innerBox {
+    border-radius: 5px;
+    padding: 30px;
+    font-size: 20px;
+}
+p span {
+  font: 600 0.8em/1 "Ubuntu", sans-serif;
+  letter-spacing: 0;
+  padding: 0.25em 0 0.325em;
+  display: block;
+  margin: 0 auto;
+  text-shadow: 0 0 80px rgba(255, 255, 255, 0.5);
+  background: url(https://i.ibb.co/SvDh1tb/animated-text-fill.png) repeat-y;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-animation: aitf 80s linear infinite;
+  /* Activate hardware acceleration for smoother animations */
+  -webkit-transform: translate3d(0, 0, 0);
+  -webkit-backface-visibility: hidden;
+}
+
+@-webkit-keyframes aitf {
+  0% {
+    background-position: 0% 50%;
+  }
+  100% {
+    background-position: 100% 50%;
+  }
+}
+
+.btn {
+  box-sizing: border-box;
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  background-color: transparent;
+  border: 2px solid #e74c3c;
+  border-radius: 0.6em;
+  color: #e74c3c;
+  cursor: pointer;
+  display: flex;
+  align-self: center;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1;
+  margin: 20px;
+  padding: 1.2em 2.8em;
+  text-decoration: none;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+}
+.btn:hover, .btn:focus {
+  color: #fff;
+  outline: 0;
+}
+.fourth {
+  border-color: #f1c40f;
+  color: #fff;
+  background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+  background-position: 100%;
+  background-size: 400%;
+  transition: background 300ms ease-in-out;
+}
+.fourth:hover {
+  background-position: 0;
+}
+.first {
+  border-color: #f1c40f;
+  color: #fff;
+  background-image: linear-gradient(45deg, #f1c40f 50%, transparent 50%);
+  background-position: 100%;
+  background-size: 400%;
+  transition: background 300ms ease-in-out;
+}
+.first:hover {
+  background-position: 0;
+}
+.flex-parent {
+  display: flex;
+  min-height: 0px;
+}
+
+.jc-center {
+  justify-content: center;
+}
+#test button {
+    margin-top: 25px;
+    text-align: center;
+    animation: fadein 2s;
+    -moz-animation: fadein 2s; /* Firefox */
+    -webkit-animation: fadein 2s; /* Safari and Chrome */
+    -o-animation: fadein 2s; /* Opera */
+}
+@keyframes fadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes fadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes fadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes fadein { /* Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
