@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/92276366?v=4" width="200" height="200" style="border-radius: 50%;" alt="Profile Picture">
-</div>
-
-<h1 align="center">Noel Chris H. Hernandez 👨‍💻</h1>
-
 <p align="center">
   <a href="https://dev.to/gautamkrishnar" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="dev.to" height="30" width="40" />
