@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://your-profile-image-url.com" alt="Your Name" width="300" height="300">
+  <img src="[https://your-profile-image-url.com](https://avatars.githubusercontent.com/u/92276366?v=4)" width="300" height="300">
 </div>
 
-<h1 align="center">👨‍💻 Your Name</h1>
+<h1 align="center">👨‍💻 Noel Chris H. Hernandez</h1>
 
 <p align="center">
   <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-Visit%20Me-%2334D058" alt="Website"></a>
@@ -23,13 +23,13 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img src="https://your-website.com/svg/javascript.svg" alt="JavaScript" width="50" height="50">
-  <img src="https://your-website.com/svg/python.svg" alt="Python" width="50" height="50">
-  <img src="https://your-website.com/svg/html5.svg" alt="HTML5" width="50" height="50">
-  <img src="https://your-website.com/svg/css3.svg" alt="CSS3" width="50" height="50">
-  <img src="https://your-website.com/svg/react.svg" alt="React" width="50" height="50">
-  <img src="https://your-website.com/svg/nodejs.svg" alt="Node.js" width="50" height="50">
-  <img src="https://your-website.com/svg/docker.svg" alt="Docker" width="50" height="50">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-%233776AB" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-%23339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-%232496ED" alt="Docker">
 </p>
 
 <h2 align="center">🚀 Featured Projects</h2>
