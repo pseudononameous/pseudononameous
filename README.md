@@ -1,13 +1,13 @@
 <p align="center">
-<a href="https://medium.com/@yourusername" target="_blank">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" style="filter: brightness(0) invert(1);"/>
-</a>
   <a href="https://twitter.com/pseudononameous" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="20" width="40" />
   </a>
   <a href="https://linkedin.com/in/noel-chris-hernandez" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="20" width="40" />
   </a>
+  <a href="https://medium.com/@yourusername" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" style="filter: brightness(0) invert(1);"/>
+</a>
   <a href="https://stackoverflow.com/users/pseudononameous" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="20" width="40" />
   </a>
