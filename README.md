@@ -1,69 +1,70 @@
-<!-- Replace these placeholders with your own information -->
-<p align="center">
-  <img src="https://your-profile-image-url.com" width="200" height="200">
-</p>
+<div align="center">
+  <img src="https://your-profile-image-url.com" alt="Your Name" width="300" height="300">
+</div>
 
-<h1 align="center">Your Name</h1>
+<h1 align="center">👨‍💻 Your Name</h1>
+
 <p align="center">
-  <a href="https://your-website.com">Website</a> •
-  <a href="https://twitter.com/your-twitter">Twitter</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
+  <a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-Visit%20Me-%2334D058" alt="Website"></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-Follow-%231DA1F2" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile+Views&color=blueviolet" alt="Profile Views">
 </p>
 
-## About Me
+<h2 align="center">🚀 About Me</h2>
 
-Write a brief introduction about yourself here. Share your passions, skills, and what you love to work on.
+<p align="center">
+  Full-stack developer by day, AI enthusiast by night. I dream in code and love to build futuristic projects.
+</p>
 
-## Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-- **Languages**: JavaScript, Python, Java
-- **Web Development**: HTML, CSS, React, Node.js
-- **Databases**: MongoDB, MySQL
-- **Tools**: VS Code, Git, Docker
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Python-%233776AB" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-%231572B6" alt="CSS3">
+  <img src="https://img.shields.io/badge/React-%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-%23339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Docker-%232496ED" alt="Docker">
+</p>
 
-## Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-List some of your notable projects with descriptions and links.
+<div align="center">
+  <a href="https://github.com/your-username/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project1&theme=dark" alt="Project 1">
+  </a>
+  <a href="https://github.com/your-username/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=project2&theme=dark" alt="Project 2">
+  </a>
+</div>
 
-### Project 1
+<h2 align="center">📝 Blog</h2>
 
-Description of the project goes here.
+<p align="center">Stay tuned for my latest blog posts on tech, AI, and the future!</p>
 
-[GitHub Repo](https://github.com/your-username/project1) • [Live Demo](https://your-project-demo.com)
-
-### Project 2
-
-Description of the project goes here.
-
-[GitHub Repo](https://github.com/your-username/project2) • [Live Demo](https://your-project-demo.com)
-
-## Blog
-
-You can write technical blog posts or link to your blog website here.
-
-- [Blog Post 1](https://your-blog.com/post-1)
-- [Blog Post 2](https://your-blog.com/post-2)
-
-## GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark" alt="GitHub Stats">
 </p>
 
-## Contact
+<h2 align="center">🚀 Contact Me</h2>
 
-Feel free to reach out to me through the following channels:
+<p align="center">Let's collaborate on the next big thing! Reach out via email or social media:</p>
 
-- Email: your.email@example.com
-- Twitter: [@your-twitter](https://twitter.com/your-twitter)
-- LinkedIn: [linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Send%20a%20Message-%23EA4335" alt="Email"></a>
+  <a href="https://twitter.com/your-twitter"><img src="https://img.shields.io/badge/Twitter-%40your-twitter-%231DA1F2" alt="Twitter"></a>
+  <a href="https://linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Message%20Me-%230077B5" alt="LinkedIn"></a>
+</p>
 
-## Fun Fact
+<h2 align="center">🤖 Fun Fact</h2>
 
-Share an interesting or fun fact about yourself.
-
-```markdown
+<p align="center">
+  When I'm not coding, I'm building robots that will take over the world...just kidding! 🤖
+</p>
