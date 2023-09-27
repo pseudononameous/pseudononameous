@@ -60,8 +60,3 @@
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=pseudononameous&theme=monokai-metallian&hide_border=true"/>
     </a>
   </div>
-
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=pseudononameous&show_icons=true&theme=dark" alt="GitHub Stats">
-  </div>
-</div>
