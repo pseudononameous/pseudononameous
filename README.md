@@ -52,16 +52,16 @@
 
 
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
-  <div style="text-align: center;">
-    <h3 align="center">🔥 Streak Stats</h3>
+
+<div align="center">
+  <div>
+    <h3>🔥 Streak Stats</h3>
     <a href="https://github.com/pseudononameous/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="pseudononameous's streak" src="https://streak-stats.demolab.com/?user=pseudononameous&theme=monokai-metallian&hide_border=true"/>
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=pseudononameous&theme=monokai-metallian&hide_border=true"/>
     </a>
   </div>
 
-
-  <div style="text-align: center;">
+  <div>
     <img src="https://github-readme-stats.vercel.app/api?username=pseudononameous&show_icons=true&theme=dark" alt="GitHub Stats">
   </div>
 </div>
