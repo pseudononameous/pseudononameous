@@ -27,18 +27,24 @@
   <img src="https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396">
   <img src="https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript">
   <img src="https://img.shields.io/badge/-MySQL-000?&logo=MySQL">
+  <img src="https://img.shields.io/badge/-Flutter-000?&logo=Flutter">
   <img src="https://img.shields.io/badge/-React-000?&logo=React">
+  <img src="https://img.shields.io/badge/-Firebase-000?&logo=Firebase">
+  <img src="https://img.shields.io/badge/-PHP-000?&logo=PHP">
   <img src="https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90">
   <img src="https://img.shields.io/badge/-Docker-000?&logo=Docker">
   <img src="https://img.shields.io/badge/-Node.js-000?&logo=node.js">
   <img src="https://img.shields.io/badge/-Redis-000?&logo=Redis">
+  <img src="https://img.shields.io/badge/-Dart-000?&logo=Dart">
   <img src="https://img.shields.io/badge/-HTML-000?&logo=HTML5">
+  <img src="https://img.shields.io/badge/-Laravel-000?&logo=Laravel">
   <img src="https://img.shields.io/badge/-CSS-000?&logo=CSS3">
   <img src="https://img.shields.io/badge/-GitLab-000?&logo=GitLab">
   <img src="https://img.shields.io/badge/-GitHub-000?&logo=GitHub">
   <img src="https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=Microsoft-SQL-Server">
   <img src="https://img.shields.io/badge/-Figma-000?&logo=Figma">
 </p>
+
 
 
 
