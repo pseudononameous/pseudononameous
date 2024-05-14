@@ -49,6 +49,12 @@
 
 
 
-
+<div align="center">
+  <div>
+    <h3>🔥 Streak Stats</h3>
+    <a href="https://github.com/pseudononameous/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=pseudononameous&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </div>
 
 
